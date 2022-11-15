@@ -1,2 +1,4 @@
 # nativeAES
-native AES crypt header for windows/unix
+native AES crypt implementation Single header for windows/unix
+#ASAP
+<!-- as soon as possible-->
